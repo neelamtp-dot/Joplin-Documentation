@@ -16,7 +16,7 @@ Joplin lets you bring notes in from other apps and take your notes out in severa
    - **ONE** — OneNote notebooks
 3. Select the file (or folder, depending on the format) from your computer
 4. Joplin imports the notes into your notebook list
-![Import Formats](\img\Import-formats.png)
+![Import Formats](/img/Import-formats.png)
 
 ## Exporting notes
 

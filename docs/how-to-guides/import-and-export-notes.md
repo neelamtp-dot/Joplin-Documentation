@@ -28,7 +28,7 @@ Joplin lets you bring notes in from other apps and take your notes out in severa
    - **HTML Directory** — a folder of HTML files
    - **PDF** — a single PDF file
 3. Choose where to save the exported file or folder on your computer
-![Export formats](\img\export-formats.png)
+![Export formats](/img/export-formats.png)
 
 ## Why this matters
 

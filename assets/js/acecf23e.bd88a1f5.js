@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_docs_site=self.webpackChunkmy_docs_site||[]).push([["3220"],{1912(o){o.exports=JSON.parse('{"blogBasePath":"/Joplin-Documentation/blog","blogTitle":"Blog","authorsListPath":"/Joplin-Documentation/blog/authors"}')}}]);
